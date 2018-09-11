@@ -1,3 +1,5 @@
-a=22.0
-b=7.0
-print("the value of pi=")(a/b)
+a=10
+b=2
+#power a and b
+c=a**b
+print(a,"**",b,"=",c)

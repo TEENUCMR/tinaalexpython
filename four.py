@@ -1,4 +1,5 @@
-a=22.0
-b=7.0
-print("the value of pi=")
-print(a/b)
+a=10
+b=2
+#sub a and b
+c=a-b
+print(a,"-",b,"=",c)
