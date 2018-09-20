@@ -1,5 +1,6 @@
 #print even numbers
-x=int(input("enter the value of x "))
-for i in range(0,x+1):
-	if (i%2==0):
-		print(i)
+x=1
+while x<=250:
+	if(x%2==0):
+		print(x)
+	x=x+1
