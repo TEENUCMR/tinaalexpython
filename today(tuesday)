@@ -1,0 +1,60 @@
+Enter any value1
+HEY!
+Enter any value1
+HEY!
+Enter any value3
+BYE!
+
+
+Enter 'r' to roll the dice and press 'q' to quit  r
+1
+Enter 'r' to roll the dice and press 'q' to quit  r
+5
+Enter 'r' to roll the dice and press 'q' to quit  r
+3
+Enter 'r' to roll the dice and press 'q' to quit  r
+5
+Enter 'r' to roll the dice and press 'q' to quit  r
+5
+Enter 'r' to roll the dice and press 'q' to quit  r
+6
+Enter 'r' to roll the dice and press 'q' to quit  r
+3
+Enter 'r' to roll the dice and press 'q' to quit  r
+3
+Enter 'r' to roll the dice and press 'q' to quit  r
+2
+Enter 'r' to roll the dice and press 'q' to quit  q
+BYE!
+
+
+
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 28 'C
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 28 'C
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 27 'C
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 28 'C
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 26 'C
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 27 'C
+cl307@soetcse:~/tina$ python3 temp.py
+Today's Temperature is 30 'C
+
+
+
+
+
+What is your name?Tina
+HEY  Tina !
+What is your name?
+HELLO WORLD!
+
+
+
+
+
+
