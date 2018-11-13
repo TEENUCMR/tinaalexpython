@@ -10,3 +10,15 @@ SAY SOMETHING
 YOU SAID-trishita
 ^Z
 [3]+  Stopped    
+
+
+
+
+
+dl207@soetcse:~/tina$ arecord example.wav
+Recording WAVE 'example.wav' : Unsigned 8 bit, Rate 8000 Hz, Mono
+^Z
+[7]+  Stopped                 arecord example.wav
+dl207@soetcse:~/tina$ python3 sr.py
+THE AUDIO FILE CONTAINS:hello please talk something
+
